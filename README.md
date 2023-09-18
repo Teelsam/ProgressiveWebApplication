@@ -6,3 +6,13 @@
 -[Usage](#usage)
 -[Questions](#questions)
 -[References](#references)
+
+
+
+
+
+
+
+
+## References 
+[Workbox](https://developer.chrome.com/docs/workbox/modules/workbox-strategies/)
