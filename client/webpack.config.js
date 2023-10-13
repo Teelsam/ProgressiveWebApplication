@@ -44,7 +44,7 @@ module.exports = () => { //export webpack configs
         ],
       }),
 
-      // new MiniCssExtractPlugin(),
+      
       new WorkboxPlugin.GenerateSW(),
 
     ],
